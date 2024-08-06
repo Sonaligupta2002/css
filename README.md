@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1 style="color: blue; text-align: center;">Hello, World!</h1>
+    <h2>this os a heading</h2>
     <p style="font-size: 18px; color: green;">This is a paragraph with inline styles.</p>
     <div style="background-color: yellow; padding: 10px; border: 1px solid black;">
         This is a div with inline styles.
