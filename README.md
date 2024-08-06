@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inline CSS Example</title>
+    <title>Inline CSS </title>
 </head>
 <body>
     <h1 style="color: blue; text-align: center;">Hello, World!</h1>
